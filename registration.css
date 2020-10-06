@@ -1,0 +1,18 @@
+body{
+    background: #333;
+    color: #fff;
+    margin: auto;
+  
+    
+}
+section{
+    background-image: url(img/bg1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 700px;
+   
+}
+.dark-overlay{
+    background: rgba(0, 0, 0, 0.7);
+min-height: 700px;
+}
